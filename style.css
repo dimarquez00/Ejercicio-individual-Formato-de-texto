@@ -1,0 +1,44 @@
+.imperio{
+    background-color: red;
+}
+
+.elImperio img{
+    padding: 10px;
+    margin: 5px;
+    background-color: red;
+}
+
+.rebeldes{
+    background-color: blue;
+    color: white;
+}
+
+.losRebeldes img{
+    padding: 10px;
+    margin: 10px;
+    background-color: blue;
+}
+
+#darthVader{
+    font-size: 30px;
+}
+
+#lukeSkywalker{
+    font-style: italic;
+}
+
+.soldados{
+    letter-spacing: .3rem;
+}
+.soldadosImg{
+    letter-spacing: 30px;
+    border: 5px dashed  black;
+}
+
+.naves{
+    text-transform: uppercase;
+}
+
+.unidadesApoyo{
+    text-align: center;
+}
